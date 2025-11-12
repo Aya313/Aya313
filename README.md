@@ -10,10 +10,8 @@ Here are some ideas to get you started:
 
 -->
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,python,php,laravel,mysql,sqlite,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,python,cpp,java,dart,flutter,mysql,sqlite,git,github,vscode,figma" />
 </p>
-### 📫 How to reach me:
-- Email: **ayashhadeh245@gmail.com**  
-- LinkedIn: [linkedin.com/in/ayashhadeh](https://linkedin.com/in/ayashhadeh)
+### 📫 How to reach me: ayashhadeh245@gmail.com
 ### 📊 GitHub Stats:
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaShhadeh&show_icons=true&theme=radical)
