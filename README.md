@@ -18,4 +18,4 @@ I also enjoy teaching and sharing knowledge through IT courses and workshops.
 ---
 
 ### 📊 GitHub Stats:
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaShhadeh&show_icons=true&theme=radical)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya313&show_icons=true&theme=radical)
